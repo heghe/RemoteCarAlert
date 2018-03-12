@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "472853025045",
+    "firebase_url": "https://remote-car-alarm.firebaseio.com",
+    "project_id": "remote-car-alarm",
+    "storage_bucket": "remote-car-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472853025045:android:dd4eccfb65128f33",
+        "android_client_info": {
+          "package_name": "ro.whiz.dev.caralarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472853025045-k3kgiqdjij6pgcldfsm0k0qdstqtnq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbjaQVN6A3hKsllLikGl2xKKncwLmWwms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
